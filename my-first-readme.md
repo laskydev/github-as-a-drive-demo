@@ -1,3 +1,1 @@
-# New Document
-
-Start writing here...
+Writing my first document on live
